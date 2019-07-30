@@ -24,6 +24,4 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
-
-git git submodule add -b master https://github.com/ericzhng/ericzhng.github.io.git public
+git push https://github.com/ericzhng/ericzhng.github.io.git master
