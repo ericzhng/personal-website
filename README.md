@@ -23,6 +23,7 @@ hugo
 * Before proceeding run `rm -rf public` to completely remove the public directory
    `git submodule add -b master https://github.com/ericzhng/ericzhng.github.io.git public`
 
+* run `./deploy.sh`
 
 ### License
 
