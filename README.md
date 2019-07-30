@@ -25,6 +25,8 @@ hugo
 
 * run `./deploy.sh`
 
+[Check how to host on github!](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
 ### License
 
 MIT License
