@@ -3,6 +3,9 @@ title: "Besides Working"
 description: "What to do after work?"
 thumbnail: "about-background.jpg" # Optional, thumbnail
 lead: "What to do after work?"
+authorbox: false
+sidebar: true
+toc: false
 menu:
   main:
     name: Life

@@ -2,6 +2,7 @@
 title: "Wave Propagation in Functionally Graded 1-D Acoustic Black Hole via Viscoelastic Local Interaction Simulation Approach"
 excerpt: "The acoustic black hole (ABH) effect produces drastic wave compression and energy trapping in thin-walled structures. Recent research has shown that the reflected wave in realistic ABH structures can be reduced by attaching specific wave concentration areas with thin absorbing layer."
 collection: portfolio
+toc: false
 ---
 
 The acoustic black hole (ABH) effect produces drastic wave compression and energy trapping in thin-walled structures. Recent research has shown that the reflected wave in realistic ABH structures can be reduced by attaching specific wave concentration areas with thin absorbing layer.
@@ -12,11 +13,11 @@ Numerical investigation of wave propagation, attenuation and reflection are cond
 
 The designs of the two FG-ABH compared to tranditional ABH without damping layer
 
-![**here**.](/images1/reflection_coefficients.png)
+![**here**.](/images/reflection_coefficients.png)
 
 The reflection coefficient plots of the several different FG-ABH design are shown below 
 
-![**here**.](/images1/jsv_displacement.png)
+![**here**.](/images/jsv_displacement.png)
 
 For more information about the algorithm and features, please check the following references.
 

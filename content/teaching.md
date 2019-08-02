@@ -3,6 +3,9 @@ title: "Teaching"
 description: "GSI for undergraduate course"
 thumbnail: # Optional, thumbnail
 lead: "Serving as a GSI to an undergraduate course: AE215 Structural Mechanics"
+authorbox: false
+sidebar: true
+toc: false
 menu:
   main:
     name: Teaching

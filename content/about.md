@@ -2,6 +2,9 @@
 title: "About Me"
 description: ""
 thumbnail: # Optional, thumbnail
+authorbox: false
+sidebar: true
+toc: false
 menu:
   main:
     name: about

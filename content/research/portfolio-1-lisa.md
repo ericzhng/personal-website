@@ -2,6 +2,7 @@
 title: "UM-LISA: guided wave solver for solid structures"
 excerpt: "One field of research in Structural Health Monitoring (SHM) is relevant to guided wave modeling and simulation. An in-house code has been developed at the University of Michigan, with abundant features for wave simulation such as non-reflective boundary (NRB) techniques, piezoelectric coupled, contact dynamics, multiple GPU parallelization, etc. The code is running on a multiple-GPU platform and is demonstrated to be much more efficient than commericial Finite Element software."
 collection: portfolio
+toc: false
 ---
 
 One field of research in Structural Health Monitoring (SHM) is relevant to guided wave modeling and simulation. An in-house code has been developed at the University of Michigan, with abundant features for wave simulation such as non-reflective boundary (NRB) techniques, piezoelectric coupled, contact dynamics, multiple GPU parallelization, etc. The code is running on a multiple-GPU platform and is demonstrated to be much more efficient than commericial Finite Element software.
@@ -10,7 +11,7 @@ The algorihtm we adopted is Local Interacation Simulation Approach (LISA), a fin
 
 All features that are currently available in UM-LISA is shown below 
 
-![**here**.](/images1/lisa-features.png)
+![**here**.](/images/lisa-features.png)
 
 For more information about the algorithm and features, please check the following references.
 

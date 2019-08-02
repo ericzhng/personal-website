@@ -2,6 +2,7 @@
 title: "Phased array methods for damage detection"
 excerpt: "Phased array methods are a promising approach to damage detection by enabling guided wave steering and beam focusing leading to improved localization and sizing of structural damage. Due to the costs and challenges to addressing piezoelectric arrays in parallel, most phased array methods actuate piezoelectric elements one at a time in round-robin fashion with postprocessing algorithms used to synthetically steer and focus the guided waves. Here we investigated true parallel excitation and sensing of ceramic piezoelectric actuators in a standard structural health monitoring data acquisition system without requiring highly specialized and expensive ultrasonic data acquisition equipment."
 collection: portfolio
+toc: false
 ---
 
 Phased array methods are a promising approach to damage detection by enabling guided wave steering and beam focusing leading to improved localization and sizing of structural damage. Due to the costs and challenges to addressing piezoelectric arrays in parallel, most phased array methods actuate piezoelectric elements one at a time in round-robin fashion with postprocessing algorithms used to synthetically steer and focus the guided waves. Here we investigated true parallel excitation and sensing of ceramic piezoelectric actuators in a standard structural health monitoring data acquisition system without requiring highly specialized and expensive ultrasonic data acquisition equipment. 
